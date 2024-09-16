@@ -4,7 +4,7 @@ AI Chat App using Generative Language Client API
 
 ## Setup Procedure
 
-- Copy .env.example to .env
+- Create a .env file to save the api key
 - Get API key from: [api-key](https://aistudio.google.com/app/apikey)
 - `npm install`
 - `npm run dev`
